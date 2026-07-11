@@ -4,4 +4,4 @@
 	branch = HEAD
 [submodule "starling"]
 	path = starling
-	url = https://github.com/cran/starling
+	url = https://github.com/nrsmoll/starling
